@@ -15,6 +15,7 @@ The app contains these works, under their own licenses.
 | [Kotlin, kotlinx.coroutines and kotlinx.serialization](https://github.com/Kotlin), [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) | Apache 2.0 |
 | [Coil](https://github.com/coil-kt/coil), [OkHttp and Okio](https://github.com/square), [Accompanist](https://github.com/google/accompanist) | Apache 2.0 |
 | [Guava](https://github.com/google/guava), [Checker Framework qualifiers](https://checkerframework.org), [JSpecify](https://jspecify.dev), [Error Prone annotations](https://errorprone.info), [J2ObjC annotations](https://developers.google.com/j2objc), [JSR 305](https://github.com/findbugsproject/findbugs) | Apache 2.0; MIT (Checker Framework qualifiers); BSD (JSR 305) |
+| [Google Play services client libraries](https://developers.google.com/android/guides/setup) | Android Software Development Kit License |
 | [Reorderable](https://github.com/Calvin-LL/Reorderable) | Apache 2.0 |
 | Artist names from [ListenBrainz](https://listenbrainz.org) | CC0 |
 
