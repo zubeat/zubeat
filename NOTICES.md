@@ -1,6 +1,7 @@
 # Third-party notices
 
-The app contains these works, under their own licenses.
+The app for Android contains these works, under their own licenses. Those in the app for Linux and Windows are
+in [licenses.txt](../../releases/download/desktop/licenses.txt).
 
 | Work | License |
 |---|---|
