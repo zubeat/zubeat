@@ -32,7 +32,7 @@ There is no server behind it and nothing to sign up for. Your playlists, your hi
 
 <table>
 <tr><td width="170"><b>Plays at once</b></td><td>A song starts while it is still downloading. The next ones are fetched early, so they start without a pause and survive bad signal.</td></tr>
-<tr><td width="170"><b>Works offline</b></td><td>You say how much space Zubeat may use, and it fills it by itself: with your saved songs, the queue, your playlists and songs you may like. Without a connection, My radio, stations and search go on with what is there. Never over mobile data, and what you save with the heart is never removed.</td></tr>
+<tr><td width="170"><b>Works offline</b></td><td>You say how much space Zubeat may use, and it fills it by itself: with your saved songs, the queue, your playlists and songs you may like. Without a connection, My radio, stations and search go on with what is there. Over mobile data only if you want that, and what you save with the heart is never removed.</td></tr>
 <tr><td width="170"><b>My radio</b></td><td>A station of your own: songs you love, mixed with new ones like them. It gets better the more you listen.</td></tr>
 <tr><td width="170"><b>Radio from anything</b></td><td>Any song, artist or playlist can become an endless station.</td></tr>
 <tr><td width="170"><b>Your playlists</b></td><td>Make your own, or import from YouTube, YouTube Music, Spotify's data export, CSV, M3U and text files.</td></tr>
@@ -122,8 +122,9 @@ nothing there but a hidden folder of its own.
 <summary><b>Does it use up my mobile data?</b></summary>
 <br>
 
-You decide in the settings what mobile data is used for. Songs that are already on the phone need none, and the space for music
-is only filled on Wi-Fi.
+You decide in the settings what mobile data is used for. Unless you choose *Use for everything*, the space for music is only filled
+on Wi-Fi, and mobile data is used for what you play or save. Songs that are already on the phone need none. While roaming, at most
+the next hour of music is downloaded.
 
 </details>
 
