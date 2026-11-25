@@ -6,7 +6,9 @@ for stays on your phone or computer, except as follows.
 **To work, the app contacts** YouTube (search, suggestions, songs and covers), MusicBrainz, the Cover Art
 Archive, Wikipedia, Wikidata and LRCLIB (titles and artists, to show information and lyrics), GitHub
 (updates and languages of the app) and PyPI (updates of yt-dlp). They see your IP address and what is
-asked for, as with any website.
+asked for, as with any website. If you open, share or import a link to another service, such as Spotify or Apple Music,
+the app also asks that service, or Apple for links from Shazam, what the link points to. Files you import are read on your device;
+of videos that a file names only by their IDs, the app asks YouTube for the titles.
 
 **Google Drive, only if you turn it on.** The app stores backups of your playlists, stations, list of saved
 songs, listening history, searches, queue and settings, and never the music, as they change, in a hidden folder of your own

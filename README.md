@@ -23,7 +23,7 @@ Free · No ads · No account · 30 languages
 ## What is Zubeat?
 
 Zubeat is a music player that finds songs on YouTube and plays them as music: without video, with the screen off, and
-without a connection once you have played them. Search for a song, paste a link, or bring your playlists along. From there it can go on by
+without a connection once you have played them. Search for a song, share one from Shazam or any music app, or bring your playlists along. From there it can go on by
 itself, with a radio that learns from what you play, like and skip.
 
 There is no server behind it and nothing to sign up for. Your playlists, your history and your songs are on your own device.
@@ -35,7 +35,8 @@ There is no server behind it and nothing to sign up for. Your playlists, your hi
 <tr><td width="170"><b>Works offline</b></td><td>You say how much space Zubeat may use, and it fills it by itself: with your saved songs, the queue, your playlists and songs you may like. Without a connection, My radio, stations and search go on with what is there. Over mobile data only if you want that, and what you save with the heart is never removed.</td></tr>
 <tr><td width="170"><b>My radio</b></td><td>A station of your own: songs you love, mixed with new ones like them. It gets better the more you listen.</td></tr>
 <tr><td width="170"><b>Radio from anything</b></td><td>Any song, artist or playlist can become an endless station.</td></tr>
-<tr><td width="170"><b>Your playlists</b></td><td>Make your own, or import from YouTube, YouTube Music, Spotify's data export, CSV, M3U and text files.</td></tr>
+<tr><td width="170"><b>Your playlists</b></td><td>Make your own, or import them by a link to Spotify, Apple Music, YouTube Music, Deezer, Tidal, SoundCloud or Bandcamp, or from files: what Spotify, Apple and Google send you, Shazam's library, CSV, Excel and text lists, and the playlists of other players.</td></tr>
+<tr><td width="170"><b>Links from anywhere</b></td><td>Share a song from Shazam or any music app to Zubeat, and it plays. If you like, such links open in Zubeat by themselves.</td></tr>
 <tr><td width="170"><b>Lyrics and stories</b></td><td>Lyrics that follow the song, who wrote and played it, artists' biographies, and albums you can play.</td></tr>
 <tr><td width="170"><b>Good sound</b></td><td>Every song equally loud, songs that fade into each other, and a sleep timer.</td></tr>
 <tr><td width="170"><b>In the car and on the go</b></td><td>Android Auto, Bluetooth and headset buttons, notification and lock screen, home screen widget.</td></tr>
