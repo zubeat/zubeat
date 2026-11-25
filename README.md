@@ -123,8 +123,8 @@ nothing there but a hidden folder of its own.
 <br>
 
 You decide in the settings what mobile data is used for. Unless you choose *Use for everything*, the space for music is only filled
-on Wi-Fi, and mobile data is used for what you play or save. Songs that are already on the phone need none. While roaming, at most
-the next hour of music is downloaded.
+on Wi-Fi, and mobile data is used for what you play or save. Songs that are already on the phone need none. *Use for everything*
+means everything, abroad too.
 
 </details>
 
@@ -141,7 +141,8 @@ room. Saved songs stay until you remove them, even if they need more.
 <summary><b>Songs no longer load. What now?</b></summary>
 <br>
 
-YouTube has probably changed something. *Settings* > *Check for update* under yt-dlp usually fixes it within a day or two.
+YouTube has probably changed something. yt-dlp then updates itself as soon as there is a version that can deal with it, usually
+within a day or two. *Settings* > *Check for update* under yt-dlp looks at once.
 
 </details>
 
