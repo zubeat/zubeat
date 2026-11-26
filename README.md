@@ -38,6 +38,7 @@ There is no server behind it and nothing to sign up for. Your playlists, your hi
 <tr><td width="170"><b>Your playlists</b></td><td>Make your own and add any song with a tap, or import them by a link to Spotify, Apple Music, YouTube Music, Deezer, Tidal, SoundCloud or Bandcamp, or from files: what Spotify, Apple and Google send you, Shazam's library, CSV, Excel and text lists, and the playlists of other players.</td></tr>
 <tr><td width="170"><b>Links from anywhere</b></td><td>Share a song from Shazam or any music app to Zubeat, and it plays. If you like, such links open in Zubeat by themselves.</td></tr>
 <tr><td width="170"><b>Lyrics and stories</b></td><td>Lyrics that follow the song, who wrote and played it, artists' biographies, and albums you can play.</td></tr>
+<tr><td width="170"><b>Your statistics</b></td><td>How long you listened today, this week, this month and in total, on all your devices together. How many songs you played, chose or skipped, and the songs and artists you play most.</td></tr>
 <tr><td width="170"><b>Good sound</b></td><td>Every song equally loud, songs that fade into each other, and a sleep timer.</td></tr>
 <tr><td width="170"><b>In the car and on the go</b></td><td>Android Auto, Bluetooth and headset buttons, notification and lock screen, home screen widget.</td></tr>
 <tr><td width="170"><b>On the computer</b></td><td>Media keys, tray icon, mini player, drag to reorder.</td></tr>
