@@ -4,7 +4,8 @@ Zubeat has no accounts, no ads, no tracking and no server of its own. What you p
 for stays on your phone or computer, except as follows.
 
 **To work, the app contacts** YouTube (search, suggestions, songs and covers), MusicBrainz, the Cover Art
-Archive, Wikipedia, Wikidata and LRCLIB (titles and artists, to show information and lyrics), GitHub
+Archive, Wikipedia, Wikidata and LRCLIB (titles and artists, to show information and lyrics), Apple (the charts:
+the songs most played in the country you look at, which is your own unless you choose another), GitHub
 (updates and languages of the app) and PyPI (updates of yt-dlp). They see your IP address and what is
 asked for, as with any website. If you open, share or import a link to another service, such as Spotify or Apple Music,
 the app also asks that service, or Apple for links from Shazam, what the link points to. Files you import are read on your device;
